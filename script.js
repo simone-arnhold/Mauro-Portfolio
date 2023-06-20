@@ -3,7 +3,7 @@ body = document.querySelector("body")
 
 menuButton.addEventListener("click", () => {
     body.classList.toggle("menu-main-open");
-    console.log("aa")
+    console.log("toggled menu.")
 })
 
 // function menuSelect(element) {
