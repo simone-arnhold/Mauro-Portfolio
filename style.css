@@ -157,8 +157,8 @@ nav ul li {
   background: #111;
   padding: 2rem;
   transition: transform 1s cubic-bezier(0.22, 1, 0.22, 1);
-  overflow-y: scroll;
-  -webkit-overflow-scrolling: touch;
+  /* overflow-y: scroll;
+  -webkit-overflow-scrolling: touch; */
   transform: translateX(calc(100% + 2rem));
   z-index: 999;
 }
